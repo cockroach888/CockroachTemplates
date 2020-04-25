@@ -1,0 +1,15 @@
+﻿<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <DefaultName>WenQue.WebEngine[Class].cs</DefaultName>
+    <Name>WenQue.WebEngine[Class]</Name>
+    <Description>基于Chromium内核及CEF框架的WEB引擎中间件（WenQue.WebEngine）新建[Class 类]文件专用模板；脉脉含情的充满精神的高尚的小强精神。</Description>
+    <ProjectType>CSharp</ProjectType>
+    <SortOrder>15</SortOrder>
+    <Icon>__TemplateIcon.ico</Icon>
+    <PreviewImage>__PreviewImage.jpg</PreviewImage>
+  </TemplateData>
+  <TemplateContent>
+    <References />
+    <ProjectItem SubType="Code" TargetFileName="$fileinputname$.cs" ReplaceParameters="true">WenQue.WebEngine[Class].cs</ProjectItem>
+  </TemplateContent>
+</VSTemplate>

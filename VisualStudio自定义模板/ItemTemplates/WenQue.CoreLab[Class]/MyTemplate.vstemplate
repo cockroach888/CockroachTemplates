@@ -1,0 +1,15 @@
+﻿<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <DefaultName>WenQue.CoreLab[Class].cs</DefaultName>
+    <Name>WenQue.CoreLab[Class]</Name>
+    <Description>生命起源核心实验室（WenQue.CoreLab）新建[Class 类]文件专用模板；脉脉含情的充满精神的高尚的小强精神。</Description>
+    <ProjectType>CSharp</ProjectType>
+    <SortOrder>15</SortOrder>
+    <Icon>__TemplateIcon.ico</Icon>
+    <PreviewImage>__PreviewImage.jpg</PreviewImage>
+  </TemplateData>
+  <TemplateContent>
+    <References />
+    <ProjectItem SubType="Code" TargetFileName="$fileinputname$.cs" ReplaceParameters="true">WenQue.CoreLab[Class].cs</ProjectItem>
+  </TemplateContent>
+</VSTemplate>
